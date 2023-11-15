@@ -1,0 +1,662 @@
+[
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\main.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\main.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\core\\Input.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\core\\Input.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\core\\Input.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\core\\Input.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\core\\VendorImplementations.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\core\\VendorImplementations.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\core\\VendorImplementations.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\core\\VendorImplementations.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\core\\Window.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\core\\Window.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\core\\Window.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\core\\Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\challenges\\Cubes.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\challenges\\Cubes.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\challenges\\Cubes.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\challenges\\Cubes.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\renderer\\Shader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\renderer\\Shader.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\renderer\\Shader.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\renderer\\Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glm-src\\glm\\.. -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /FoCMakeFiles\\MinecraftCloneForYoutube.dir\\src\\renderer\\ShaderProgram.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\renderer\\ShaderProgram.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\src\\renderer\\ShaderProgram.cpp",
+  "output": "CMakeFiles\\MinecraftCloneForYoutube.dir\\src\\renderer\\ShaderProgram.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\context.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\init.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\init.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\init.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\input.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\input.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\input.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\monitor.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\monitor.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\vulkan.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\vulkan.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\window.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\window.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\window.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_init.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_init.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_joystick.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_monitor.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_time.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_time.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_thread.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_thread.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_window.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\win32_window.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\wgl_context.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\wgl_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\egl_context.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\egl_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -D_UNICODE -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-build\\src /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /W3 /Fo_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\src\\osmesa_context.c",
+  "output": "_deps\\glfw-build\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\boing.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\boing.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\boing.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\boing.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\boing.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\gears.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\gears.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\gears.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\gears.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\gears.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\heightmap.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\heightmap.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\heightmap.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\heightmap.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\heightmap.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\offscreen.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\offscreen.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\offscreen.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\offscreen.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\offscreen.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\particles.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\particles.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\particles.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\particles.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\tinycthread.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\tinycthread.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\particles.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\sharing.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\sharing.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\sharing.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\sharing.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\sharing.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\simple.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\simple.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\simple.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\simple.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\simple.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\splitview.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\splitview.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\splitview.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\splitview.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\splitview.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\wave.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\wave.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\wave.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\wave.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\10.0.22621.0\\x64\\rc.exe -D_CRT_SECURE_NO_WARNINGS -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -I C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -DWIN32 -D_DEBUG /fo _deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\glfw.rc.res C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\examples\\glfw.rc",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\glfw.rc.res"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\examples\\CMakeFiles\\wave.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\clipboard.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\clipboard.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\clipboard.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\clipboard.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\clipboard.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\events.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\events.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\events.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\events.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\events.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\msaa.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\msaa.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\msaa.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\msaa.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\msaa.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\glfwinfo.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\glfwinfo.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\glfwinfo.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\glfwinfo.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\glfwinfo.dir\\__\\deps\\glad_vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\iconify.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\iconify.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\iconify.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\iconify.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\iconify.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\monitors.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\monitors.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\monitors.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\monitors.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\monitors.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\reopen.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\reopen.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\reopen.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\reopen.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\reopen.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\cursor.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\cursor.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\cursor.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\cursor.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\cursor.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\empty.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\empty.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\empty.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\empty.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\tinycthread.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\tinycthread.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\empty.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\gamma.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\gamma.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\gamma.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\gamma.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\gamma.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\icon.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\icon.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\icon.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\icon.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\icon.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\inputlag.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\inputlag.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\inputlag.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\inputlag.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\inputlag.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\joysticks.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\joysticks.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\joysticks.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\joysticks.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\joysticks.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\opacity.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\opacity.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\opacity.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\opacity.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\opacity.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\tearing.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\tearing.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\tearing.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\tearing.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\tearing.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\threads.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\threads.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\threads.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\threads.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\tinycthread.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\tinycthread.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\tinycthread.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\threads.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\timeout.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\timeout.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\timeout.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\timeout.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\timeout.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\title.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\title.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\title.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\title.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\title.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\triangle-vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\triangle-vulkan.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\triangle-vulkan.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\triangle-vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\__\\deps\\glad_vulkan.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_vulkan.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\triangle-vulkan.dir\\__\\deps\\glad_vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\windows.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\windows.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\tests\\windows.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\windows.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\getopt.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\getopt.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\getopt.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps -external:IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\include -external:W0 /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\glad_gl.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\glfw-src\\deps\\glad_gl.c",
+  "output": "_deps\\glfw-build\\tests\\CMakeFiles\\windows.dir\\__\\deps\\glad_gl.c.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\spdlog.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\spdlog.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\stdout_sinks.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\stdout_sinks.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\color_sinks.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\color_sinks.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\file_sinks.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\file_sinks.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\async.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\async.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\cfg.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\cfg.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo /TP -DSPDLOG_COMPILED_LIB -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zc:__cplusplus /MP /Ob0 /Od /RTC1 -std:c++20 -MDd -ZI /Fo_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\bundled_fmtlib_format.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\bundled_fmtlib_format.cpp",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\_deps\\spdlog-src\\src\\bundled_fmtlib_format.cpp",
+  "output": "_deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\bundled_fmtlib_format.cpp.obj"
+},
+{
+  "directory": "C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug",
+  "command": "\"D:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x86\\cl.exe\"  /nologo -IC:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\include /DWIN32 /D_WINDOWS /Ob0 /Od /RTC1 -MDd -ZI /Fo_deps\\glad-build\\CMakeFiles\\glad.dir\\__\\__\\src\\glad.c.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\src\\glad.c",
+  "file": "C:\\Users\\WuXiangGuJun\\CodeSpace\\VisualStudioProjects\\MinecraftCloneForYoutube\\cmake-build-debug\\src\\glad.c",
+  "output": "_deps\\glad-build\\CMakeFiles\\glad.dir\\__\\__\\src\\glad.c.obj"
+}
+]

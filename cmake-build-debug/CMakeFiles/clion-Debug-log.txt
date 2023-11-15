@@ -1,0 +1,35 @@
+"D:\Program Files\JetBrains\Toolbox\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/Toolbox/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\WuXiangGuJun\CodeSpace\VisualStudioProjects\MinecraftCloneForYoutube -B C:\Users\WuXiangGuJun\CodeSpace\VisualStudioProjects\MinecraftCloneForYoutube\cmake-build-debug
+-- CPM: Adding package glfw@3.3.8 (3.3.8)
+-- Using Win32 for window creation
+-- CPM: Adding package glm@0.9.9.8 (0.9.9.8)
+CMake Deprecation Warning at cmake-build-debug/_deps/glm-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at cmake-build-debug/_deps/glm-src/CMakeLists.txt:2 (cmake_policy):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- CPM: Adding package spdlog@1.12.0 (v1.12.0)
+-- Build spdlog: 1.12.0
+-- Build type: Debug
+-- CPM: Adding package glad@0.1.36 (v0.1.36)
+CMake Deprecation Warning at cmake-build-debug/_deps/glad-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring done (3.8s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/WuXiangGuJun/CodeSpace/VisualStudioProjects/MinecraftCloneForYoutube/cmake-build-debug
